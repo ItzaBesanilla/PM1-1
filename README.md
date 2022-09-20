@@ -45,6 +45,7 @@ Crear una rama v0.2
 Añadir Archivo 2.txt 
 -Añadir un fichero 2.txt en la rama v0.2.
 
+[![imagen-2022-09-20-084251737.png](https://i.postimg.cc/HWZTKVY4/imagen-2022-09-20-084251737.png)](https://postimg.cc/w3NKRxs7)
 
 
 Merge directo
