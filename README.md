@@ -102,12 +102,12 @@ Comprobando:
 
 ####Crear una tabla 
 - Crear una tabla de este estilo en el fichero README.md con la información de 3 de tus compañeros de clase: 
-| Nombre   		  | GitHub   |
----------------------------------------
+
+| Nombre  | Usuario |
+| ------------- | ------------- |
 | Angel Salazar | AngelSalazarRochaITNL|
 | EdWIN Andres  |Edwin-Andres222|
 |  Cesar Castro | Cesar-CCS|
-
 ####Colaborados 
 Ponerme como colaborador del repositorio PM1 *mi usuario: jmav94 
 ![image](https://user-images.githubusercontent.com/78859111/191503087-2c65f2de-6542-4088-a2a5-bd831b167755.png)
@@ -121,7 +121,3 @@ Ponerme como colaborador del repositorio PM1 *mi usuario: jmav94
 -Meterme a mí y a otros 2 de tus compañeros de clase en el equipo colaboradores. 
 ![image](https://user-images.githubusercontent.com/78859111/191504448-e0044801-2247-45ac-863b-ecc09b1a87ed.png)
 ![image](https://user-images.githubusercontent.com/78859111/191504812-47cbba20-0475-4a9b-a127-9cfcfc4853ea.png)
-
-
-
-
