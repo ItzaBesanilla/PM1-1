@@ -101,23 +101,27 @@ Comprobando:
 [![imagen-2022-09-21-071948073.png](https://i.postimg.cc/vZFM45cx/imagen-2022-09-21-071948073.png)](https://postimg.cc/mtwKqz3T)
 
 ####Crear una tabla 
-- Crear una tabla de este estilo en el fichero README.md con la información de 3 de tus compañeros de clase: 
+-Crear una tabla de este estilo en el fichero README.md con la información de 3 de tus compañeros de clase: 
 
 | Nombre  | Usuario |
 | ------------- | ------------- |
 | Angel Salazar | AngelSalazarRochaITNL|
 | EdWIN Andres  |Edwin-Andres222|
 |  Cesar Castro | Cesar-CCS|
+
+
 ####Colaborados 
-Ponerme como colaborador del repositorio PM1 *mi usuario: jmav94 
+-Ponerme como colaborador del repositorio PM1 *mi usuario: jmav94 
 ![image](https://user-images.githubusercontent.com/78859111/191503087-2c65f2de-6542-4088-a2a5-bd831b167755.png)
 
 ####Crear una organizacion
 ![image](https://user-images.githubusercontent.com/78859111/191503490-68368b76-1fb0-4514-b51f-862bc1e2e009.png)
 
 ####Crear equipos 
--Crear 2 equipos en la organización PM1-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro --colaboradores con menos permisos. 
+
+-Crear 2 equipos en la organización PM1-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos. 
 -Meterme a mí (jmav94) y a 2 de tus compañeros de clase en el equipo administradores. 
 -Meterme a mí y a otros 2 de tus compañeros de clase en el equipo colaboradores. 
+
 ![image](https://user-images.githubusercontent.com/78859111/191504448-e0044801-2247-45ac-863b-ecc09b1a87ed.png)
 ![image](https://user-images.githubusercontent.com/78859111/191504812-47cbba20-0475-4a9b-a127-9cfcfc4853ea.png)
