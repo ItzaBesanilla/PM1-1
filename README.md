@@ -81,3 +81,47 @@ Comprobando:
 [![imagen-2022-09-20-083827038.png](https://i.postimg.cc/VvP3tPm6/imagen-2022-09-20-083827038.png)](https://postimg.cc/JDK6wgyV)
 
 
+##Examen parte dos 
+-Poner una foto en tu perfil de GitHub. 
+-Poner el doble factor de autentificación en tu cuenta de GitHub. 
+-Añadir (si no lo has hecho aun) la clave pública (ssh) que se corresponde a tu equipo. 
+
+[![10.png](https://i.postimg.cc/1XGSHTqh/10.png)](https://postimg.cc/Pv50fSy2)
+[![11.png](https://i.postimg.cc/zXN8BJsJ/11.png)](https://postimg.cc/qg19DdBY)
+[![12.png](https://i.postimg.cc/c1wd0K59/12.png)](https://postimg.cc/Z0bGLqmp)
+
+####Uso social de github
+-Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y síguelos.
+-Seguir los repositorios PM1 del resto de tus compañeros. 
+-Añadir una estrella a los repositorios PM1 del resto de tus compañeros. 
+
+[![imagen-2022-09-21-071641532.png](https://i.postimg.cc/KjRpNpsc/imagen-2022-09-21-071641532.png)](https://postimg.cc/GTnj3KC6)
+[![imagen-2022-09-21-072109052.png](https://i.postimg.cc/d1mn9PBK/imagen-2022-09-21-072109052.png)](https://postimg.cc/PpJmt796)
+[![imagen-2022-09-21-071807784.png](https://i.postimg.cc/PxZQ5Gcw/imagen-2022-09-21-071807784.png)](https://postimg.cc/PpXwS7dX)
+[![imagen-2022-09-21-071948073.png](https://i.postimg.cc/vZFM45cx/imagen-2022-09-21-071948073.png)](https://postimg.cc/mtwKqz3T)
+
+####Crear una tabla 
+- Crear una tabla de este estilo en el fichero README.md con la información de 3 de tus compañeros de clase: 
+| Nombre   		  | GitHub   |
+---------------------------------------
+| Angel Salazar | AngelSalazarRochaITNL|
+| EdWIN Andres  |Edwin-Andres222|
+|  Cesar Castro | Cesar-CCS|
+
+####Colaborados 
+Ponerme como colaborador del repositorio PM1 *mi usuario: jmav94 
+![image](https://user-images.githubusercontent.com/78859111/191503087-2c65f2de-6542-4088-a2a5-bd831b167755.png)
+
+####Crear una organizacion
+![image](https://user-images.githubusercontent.com/78859111/191503490-68368b76-1fb0-4514-b51f-862bc1e2e009.png)
+
+####Crear equipos 
+-Crear 2 equipos en la organización PM1-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro --colaboradores con menos permisos. 
+-Meterme a mí (jmav94) y a 2 de tus compañeros de clase en el equipo administradores. 
+-Meterme a mí y a otros 2 de tus compañeros de clase en el equipo colaboradores. 
+![image](https://user-images.githubusercontent.com/78859111/191504448-e0044801-2247-45ac-863b-ecc09b1a87ed.png)
+![image](https://user-images.githubusercontent.com/78859111/191504812-47cbba20-0475-4a9b-a127-9cfcfc4853ea.png)
+
+
+
+
